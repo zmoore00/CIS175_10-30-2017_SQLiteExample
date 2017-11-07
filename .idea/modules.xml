@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CIS175_10-30-2017_SQLiteExample.iml" filepath="$PROJECT_DIR$/CIS175_10-30-2017_SQLiteExample.iml" />
+      <module fileurl="file://C:\Users\Joleen\Documents\GitHub\CIS175_10-30-2017_SQLiteExample\CIS175_10-30-2017_SQLiteExample.iml" filepath="C:\Users\Joleen\Documents\GitHub\CIS175_10-30-2017_SQLiteExample\CIS175_10-30-2017_SQLiteExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Joleen\Documents\GitHub\CIS175_10-30-2017_SQLiteExample\app\app.iml" filepath="C:\Users\Joleen\Documents\GitHub\CIS175_10-30-2017_SQLiteExample\app\app.iml" />
     </modules>
   </component>
 </project>
